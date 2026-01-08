@@ -1,5 +1,7 @@
 qa-ci-cd-lab
 
+![CI](https://github.com/CFontalvo/qa-ci-cd-lab/actions/workflows/ci.yml/badge.svg)
+
 Repositorio de laboratorio para aprender y demostrar Git, CI y CD desde cero hasta nivel profesional, usando Python y pytest con un enfoque práctico orientado a QA Engineers.
 
 Este proyecto evoluciona por iteraciones reales: cada cambio en el código se versiona, se prueba y (más adelante) se automatiza con pipelines de CI/CD.
